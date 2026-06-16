@@ -1,1 +1,2 @@
-data = "this is naveen"
+data = input()
+print(data)
